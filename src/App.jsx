@@ -9,8 +9,6 @@ import { Projects } from "./components/pages/Projects";
 import { Education } from "./components/pages/Education";
 import { Jobs } from "./components/pages/Jobs";
 
-
-
 function App() {
   return (
     <>
