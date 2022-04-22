@@ -8,6 +8,7 @@
   --secondary-color: #6B7AA1;
   --primary-shadow: #8b8eaf;
   --secondary-shadow: #C1CFC0;
+  --top-margin: 1.0rem;
   --bottom-margin: 0.5rem;
   --bottom-margin-2: 1rem;
   --line-height: 1.7rem;
@@ -129,6 +130,14 @@ nav ul li {
 
 .about-me h2 {
   align-items: center;
+  margin-top : var(--top-margin);
+  margin-bottom: var(--bottom-margin);
+  text-align: center;
+}
+
+.about-me h3 {
+  align-items: center;
+  margin-top : var(--top-margin);
   margin-bottom: var(--bottom-margin);
   text-align: center;
 }
