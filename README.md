@@ -3,7 +3,7 @@
 
 ## How to run the project locally
 
-1. Inside project folfer run `npm install` and then, `npm start`
+1. Inside project folder run `npm install` and then, `npm start`
 2. Visit `localhost:3000`
 
 TODO: To be repalced...
