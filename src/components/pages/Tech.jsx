@@ -5,7 +5,7 @@ import ReactLogo from "../../assets/img/experience/icons8-react-native-240.png";
 import NodeLogo from "../../assets/img/experience/icons8-node-js-240.png";
 import GitLogo from "../../assets/img/experience/icons8-git-240.png";
 
-export function Experience () {
+export function Tech () {
     return (
         <>
             <section className="skills" id="skills">
